@@ -260,7 +260,7 @@ export default {
 <style scoped>
   #container{
     width:80vw;
-    color:rgba(255, 255, 255, 0.61);
+    color:#0000009c;
     height:100vh;
     display:flex;
     flex-direction:column;
@@ -268,7 +268,7 @@ export default {
   }
   h1{
     width:100%;
-    background-color:rgb(0, 0, 0);
+    background-color:#2ef8ee;
     box-sizing:border-box;
     padding:40px;
   }
@@ -283,7 +283,7 @@ export default {
   }
   input,select,#result{
     padding:12px;
-    border: 5px solid rgb(0, 255, 0);
+    border: 5px solid #00ff00;
     border-radius:10px;
     width:10vw;
     font-family:"Source Sans Pro";
